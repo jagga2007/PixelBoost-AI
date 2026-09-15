@@ -1,0 +1,6 @@
+{
+  "name": "PixelBoost AI",
+  "description": "16K AI Image Enhancer for super-resolution, detail recovery, face enhancement, and noise reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
